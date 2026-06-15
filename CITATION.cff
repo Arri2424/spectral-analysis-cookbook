@@ -8,6 +8,12 @@ authors:
     website: https://github.com/jdmantillaq # optional
     affiliation: University at Albany (State University of New York) # optional
 
+  - family-names: Ford
+    given-names: Robert R.
+    orcid: https://orcid.org/0000-0001-5483-4965 # optional
+    website: r-ford.github.io # optional
+    affiliation: University at Albany (State University of New York) # optional
+    
   - family-names: Li
     given-names: Suyue
     website: https://github.com/suyueli42
